@@ -1,5 +1,4 @@
 # frida-ssl-pinning
-frida ssl-pinning脚本
-
-#替换证书
-frida-android-repinning.js 使用替换证书的方式抓包
+本项目为frida js 项目。主要为解决抓包过程中的SSL-PINNING 问题。  
+### 脚本介绍  
+frida-android-repinning.js 使用证书替换的方式劫持ssl-pinning。
